@@ -1,0 +1,59 @@
+h1{
+    
+    font-size: 20px;
+    height: 60px;
+    width: 190px;
+    
+}
+#h1:hover{
+    transform: scale(1.1);
+}
+#h2{
+    
+    font-size: 20px;
+    height: 60px;
+    width: 100px;
+
+}
+#h2:hover{
+    transform: scale(1.1);
+}
+#h3{
+    
+    font-size: 20px;
+    height: 60px;
+    width: 170px;
+    
+}
+#h3:hover{
+    transform: scale(1.1);
+}
+#h4{
+    
+    font-size: 20px;
+    height: 60px;
+    width: 130px;
+}
+#h4:hover{
+    transform: scale(1.1);
+}
+#h5{
+   
+    font-size: 20px;
+    height: 60px;
+    width: 150px;
+}#h5:hover{
+    transform: scale(1.1);
+}
+header{
+    display:flex;
+    text-align: center;
+    color: rgb(24, 24, 47);
+    background-color: rgba(148, 121, 231, 0.357)
+}
+main{
+    background-color: rgb(112, 112, 158);
+    color: rgb(167, 167, 167);
+    text-align: center;
+    font-size: 80px;
+}

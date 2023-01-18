@@ -1,0 +1,168 @@
+#imp{
+    font-variant-position: center;
+    font-family: 'Bungee Shade', cursive;
+    width: auto;  
+    text-align: center;  
+    padding: 10px;  
+    font-size: 200px;
+    height: 80px;
+    color: rgb(183, 183, 195);
+    margin: 0px;
+    padding: 0px;
+    
+}
+#imp2{
+    width: auto;  
+    text-align: center;  
+    padding: 150px;  
+    font-size: 150px;
+    color: rgb(181, 181, 194);
+}
+input{
+    color: rgb(202, 202, 220);
+    background-color:transparent;
+    border-width: 5px;
+    text-align: center;
+}
+
+#photos{
+    display:flex;
+    align-content: center;
+    height: 500px;
+}
+footer{  
+    background-color: rgb(81, 81, 120); 
+
+      
+    }
+    #fill_form{
+        color:rgb(227, 225, 238);
+        text-align: center;
+        font-size:80px;
+
+    }
+    form{
+       color: aliceblue;
+        background-color: rgba(115, 115, 192, 0.205);
+        
+    }
+    #f1{
+        color: rgb(234, 234, 244);
+        font-size: 20px;
+        text-align:center;
+    
+    }
+    #f3{
+        color: rgb(183, 183, 239); 
+        font-size: 20px;
+    }
+main{
+    background-image: url("bgphoto.jpg");
+    border: 0px;
+    background-size: auto;
+    background-repeat: no-repeat;
+    padding: 0%;
+    margin: 0%;
+}
+
+#f2{
+    font-display: flex;
+    text-align: center;
+}
+#f2 img{
+    height: 50px;
+    width: auto;
+}
+#photos img{
+    height:400px;
+    width:auto;
+}
+#l1{
+    font-size: 40px;
+    text-align: center;
+}
+#l2{
+    font-size: 40px;
+    text-align: center;
+}
+#l31{
+    font-size: 50px;
+    text-align: center;
+    
+}
+#l32{
+    font-size: 50px;
+    text-align: center;
+}
+#l31:hover{
+    transform: scale(1.1);
+}
+#l32:hover{
+    transform: scale(1.1);
+}
+#h1{
+    
+    font-size: 20px;
+    height: 60px;
+    width: 190px;
+    
+}
+#h1:hover{
+    transform: scale(1.1);
+}
+#h2{
+    
+    font-size: 20px;
+    height: 60px;
+    width: 100px;
+
+}
+#h2:hover{
+    transform: scale(1.1);
+}
+#h3{
+    
+    font-size: 20px;
+    height: 60px;
+    width: 170px;
+    
+}
+#h3:hover{
+    transform: scale(1.1);
+}
+#h4{
+    
+    font-size: 20px;
+    height: 60px;
+    width: 130px;
+}
+#h4:hover{
+    transform: scale(1.1);
+}
+#h5{
+   
+    font-size: 20px;
+    height: 60px;
+    width: 150px;
+}
+#h5:hover{
+    transform: scale(1.1);
+}
+header{
+    display:flex;
+    text-align: center;
+    color: rgb(24, 24, 47);
+    background-color: rgb(149, 121, 231)
+    
+    
+
+}
+body{
+    margin: 0px;
+    background-color: rgb(30, 30, 42);
+}
+
+
+
+
+    
